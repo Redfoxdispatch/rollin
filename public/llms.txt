@@ -1,0 +1,37 @@
+# Rollin
+
+> Rollin is an AI route decision engine for trucking carriers. It evaluates every available load against a truck's current position, route economics, and what happens after delivery, not just the rate on top, then recommends the load that puts the truck in the best position for its next profitable move.
+
+Rollin is built for carriers and fleet owners who run their own trucks. It is not a load board, not a broker tool, and not a system that simply picks the highest-paying load. Rollin connects to existing freight-data and load-board platforms and adds a decision layer on top of them.
+
+## Core capability
+
+- **Route Decision Engine**: scores each available load by reload odds, deadhead, and revenue over the full sequence of moves, not just the immediate rate. Returns a Recommended, Alternative, or Avoid call with plain-language reasoning.
+
+## Supporting capabilities
+
+- **Intelligent Load Matching**: matches freight to the right truck and driver by lane fit, equipment, and preferences.
+- **Route Profitability**: shows RPM, deadhead, estimated fuel cost, and estimated profit before a load is booked.
+- **Fleet & Driver Intelligence**: centralized view of truck location, driver availability, and performance.
+- **Broker & Lane Intelligence**: surfaces which brokers and lanes actually perform well for a specific fleet, based on that fleet's own booking history.
+- **Decision & Outcome Learning**: compares each recommendation against the actual outcome (booked, skipped, final rate, delivery performance) to improve future recommendations for that fleet.
+
+## Audience
+
+Owner-operators and small-to-midsize trucking companies (FMCSA-licensed motor carriers) in the United States. Rollin is not built for freight brokers or load-board operators.
+
+## Roadmap
+
+ELD and HOS (hours-of-service) integration is planned but not yet available. When live, recommendations will account for a driver's available drive time.
+
+## Pages
+
+- Home: https://rollin.ai/ (product overview, decision engine explanation, how it works, security)
+- About: https://rollin.ai/about (mission and company information)
+- Contact: https://rollin.ai/contact (request a demo, contact details)
+- Privacy Policy: https://rollin.ai/privacy
+- Terms of Service: https://rollin.ai/terms
+
+## Contact
+
+Email: hello@rollin.ai
